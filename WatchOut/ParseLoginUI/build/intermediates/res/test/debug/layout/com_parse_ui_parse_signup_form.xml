@@ -1,0 +1,277 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"    >
+
+
+    <!-- My Elements -->
+    <TextView
+        android:id="@+id/user_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="User Info"
+        android:textColor="@color/red"
+        android:textSize="17sp" />
+
+
+
+
+
+    <!-- Elemento di ParseUI -->
+
+    <EditText
+        android:id="@+id/signup_name_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textSize="15sp"
+        android:hint="@string/com_parse_ui_name_input_hint"
+        android:textColorHint="#666666"
+        android:inputType="textPersonName" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray" >
+    </RelativeLayout>
+
+
+    <!-- My Elements -->
+
+
+    <EditText
+        android:id="@+id/cognome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textSize="15sp"
+        android:hint="@string/cognome"
+        android:textColorHint="#666666"></EditText>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray" >
+    </RelativeLayout>
+
+    <!-- Elemento di ParseUI -->
+
+    <EditText
+        android:id="@+id/signup_username_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textSize="15sp"
+        android:hint="@string/com_parse_ui_username_input_hint"
+        android:textColorHint="#666666"></EditText>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray" >
+    </RelativeLayout>
+
+
+    <!-- My Elements -->
+    <TextView
+        android:id="@+id/label_sesso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="@string/sesso"
+        android:textColor="@color/red"
+        android:textSize="17sp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="5dp"                >
+
+        <RadioButton
+            android:id="@+id/radio_male"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:checked="true"
+            android:drawablePadding="5dp"
+            android:drawableRight="@drawable/radio_button"
+            android:text="@string/maschio"
+            android:textColor="@color/gray_label" />
+
+        <RadioButton
+            android:id="@+id/radio_female"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:button="@null"
+            android:drawablePadding="5dp"
+            android:drawableRight="@drawable/radio_button"
+            android:text="@string/femmina"
+            android:textColor="@color/gray_label" />
+    </RadioGroup>
+
+
+    <!-- My Element -->
+
+    <TextView
+        android:id="@+id/label_data_nascita"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="@string/data_di_nascita"
+        android:textColor="@color/red"
+        android:textSize="17sp" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/data_nascita_giorno"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/back_login"
+            android:gravity="center"
+            android:hint="@string/gg"
+            android:inputType="number"
+            android:maxLength="2"
+            android:nextFocusDown="@+id/data_nascita_mese"
+            android:padding="15dp"
+            android:singleLine="true"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/data_nascita_mese"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/back_login"
+            android:gravity="center"
+            android:hint="@string/mm"
+            android:inputType="number"
+            android:maxLength="2"
+            android:nextFocusDown="@+id/data_nascita_anno"
+            android:padding="15dp"
+            android:singleLine="true"
+            android:textSize="15sp" />
+
+        <EditText
+            android:id="@+id/data_nascita_anno"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="2"
+            android:background="@drawable/back_login"
+            android:gravity="center"
+            android:hint="@string/aaaa"
+            android:inputType="number"
+            android:maxLength="4"
+            android:padding="15dp"
+            android:singleLine="true"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+
+
+
+
+    <!-- My Elements -->
+    <TextView
+        android:id="@+id/set_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:text="Password"
+        android:textColor="@color/red"
+        android:textSize="17sp" />
+
+    <!-- Parse Elements -->
+
+    <EditText
+        android:id="@+id/signup_password_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textSize="15sp"
+        android:layout_marginTop="@dimen/com_parse_ui_small_vertical_spacing"
+        android:fontFamily="sans-serif"
+        android:hint="@string/com_parse_ui_password_input_hint"
+        android:textColorHint="#666666"
+        android:inputType="textPassword"
+        android:selectAllOnFocus="true" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray" >
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/signup_confirm_password_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textSize="15sp"
+        android:fontFamily="sans-serif"
+        android:hint="@string/com_parse_ui_confirm_password_input_hint"
+        android:textColorHint="#666666"
+        android:inputType="textPassword"
+        android:selectAllOnFocus="true" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray" >
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/signup_email_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:padding="15dp"
+        android:singleLine="true"
+        android:textSize="15sp"
+        android:layout_marginTop="@dimen/com_parse_ui_small_vertical_spacing"
+        android:hint="@string/com_parse_ui_email_input_hint"
+        android:textColorHint="#666666"
+        android:inputType="textEmailAddress" />
+
+
+
+    <Button
+        android:id="@+id/create_account"
+        style="@style/ParseLoginUI.Button"
+        android:layout_marginTop="30dp"
+        android:text="@string/com_parse_ui_create_account_button_label" />
+
+
+</LinearLayout>
+<!-- From: file:/Users/Damiano/Desktop/WO_consegna/ParseLoginUI/res/layout/com_parse_ui_parse_signup_form.xml --><!-- From: file:/Users/Damiano/Desktop/WO_consegna/ParseLoginUI/build/intermediates/bundles/debug/res/layout/com_parse_ui_parse_signup_form.xml -->

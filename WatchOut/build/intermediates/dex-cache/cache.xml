@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-114d65d79ba7776ab10c1f8fd6571a01835d7eea.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-cc0a4e76fe27b6617a69d5eec9e44431bec1949d.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-575d6623ebbc75cce40ac79a8f689af7bbc0d4ea.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-d2ee66d3aa38e694546a52c940ff62c2fb6e4cd3.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-99eedb1dc7e756b164d8840c4e556fda2802f798.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/watchout/ParseLoginUI/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f4126be7b5c9f343cbc097c539fad6ae3946b997">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-1b0887293c6ca36f4ce2fb8835aa39baebbe8711.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/libs/Parse-1/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-afe03cd195d298bc427a265a05f792764bd93020.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-578d8f24d8457d1c0075edf2fd32ac279c5f4121.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ddd8a6eaad932c3c3b6a6a8e2be35f4d624316b8.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-29deb5eaffa880d86d88388cddf6c5065f7c9dbd.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-0d4939b6e625bd6585d978b57161f076c397a140.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-46580957dbbe17d977df3127328d14b3605929c5.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-585de1f0d38ea587cb666e7b7f206fbb2f575798.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-73d8d0fb549701cfa128342ec8910a50ccf45341.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/watchout/ParseLoginUI/unspecified/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-0ccf679bd91233eaeb5b7c522eec650a0192514d.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-434627275a10cbdbeebf3af5c1ac390b69da94e2.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-c6f9f24d8c9bd1cfafdea08951c8db391de46443.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-7f3f9f2858b46cdbe0146d483bad29a1e3bfa70b.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-976f6d4476189119a6e0d7c97f05dd7118032812.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-7972227b46f0743f335a364f3a69693c32f9654c.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-7eecccf21b80d60449dca50143155279692c420d.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-f82a104039567ab771a587db3a2a14b5262c1536.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-08b2d173e5136e3815e8d5ebf256783e064e3366.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-3866cab9c6c775d70ca7b0c1fa9e765efa5fedfd.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-3df8bfff46e6147f11fa8ffa189552903155dd37.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-7c2fecfaafdeb6338892e7cc5c3948c0ed433728.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-51ffb0349455ab649478a53a544ab4fd7f46be85.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/classes-5d0bbce4117549098a46e7e07164ee5ececa41eb.jar" />
+    </item>
+    <item
+        jar="/Users/Damiano/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Damiano/AndroidStudioProjects/watchout/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-d998b227ee0098e3bf165cff64fb8de82cc8e466.jar" />
+    </item>
+
+</items>
