@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#b14344</color>
+    <color name="red_opaque">#b14544</color>
+    <color name="gray">#f1f1f1</color>
+    <color name="white_opaque">#f1ece9</color>
+    <color name="gray_label">#97928e</color>
+    <color name="gray_faq_line">#e0dedd</color>
+    <color name="feed_item_line">#ebeae9</color>
+    <color name="light_red">#d8a1a2</color>
+    <color name="brown_border">#c3c0bd</color>
+    <color name="black_grey">#3f3f3f</color>
+
+
+    <color name="frame">#b4b4b4</color>
+    <color name="frame_solid">#eee</color>
+    <color name="frame_background">#bcbcbc</color>
+</resources>

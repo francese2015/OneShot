@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tab_bar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray_faq_line" >
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/menu_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:src="@drawable/icon_menu" />
+
+        <ImageButton
+            android:id="@+id/home_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:src="@drawable/icon_home" />
+
+
+        <ImageButton
+            android:id="@+id/ranking_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_vertical"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:src="@drawable/icon_ranking" />
+
+        <ImageButton
+            android:id="@+id/tournament_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center|center_vertical"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:src="@drawable/icon_tournament" />
+
+        <ImageButton
+            android:id="@+id/clan_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:src="@drawable/icon_clan" />
+    </LinearLayout>
+
+</RelativeLayout>

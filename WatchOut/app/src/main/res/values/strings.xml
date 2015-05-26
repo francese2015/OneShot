@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Please put your application's app ID and keys here -->
+    <string name="parse_app_id">hH4Z9wM0CrLad3CeUxxsFpZLk1En22f5y7IWjEA2</string>
+    <string name="parse_client_key">2HKtQCuZH8YHgI9tEc2I7mWu8NcRbiYDiPhOnOux</string>
+    <string name="facebook_app_id">1431260977180039</string>
+
+
+    <string name="app_name">WatchOut</string>
+    <string name="loading">Loading...</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="home">Home</string>
+
+    <!-- TITOLI FRAGMENTS-->
+    <string name="home_fragment">Home</string>
+    <string name="rank_fragment">Ranking</string>
+    <string name="tournament_fragment">Tournament</string>
+    <string name="clan_fragment">Clan</string>
+
+    <!-- Titolo Activity -->
+    <string name="match_activity">Time to Match</string>
+
+    <!-- HOME FRAGMENT -->
+    <string name="profile_title_logged_in">Your are logged in as</string>
+
+
+
+    <!-- Termini e condizioni -->
+    <string name="termini_condizioni">Termini e Condizioni</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.</string>
+
+    <!-- Privacy policy -->
+    <string name="privacy_policy_title">Privacy Policy</string>
+
+    <!-- Password dimenticata -->
+    <string name="password_dimenticata">Recupera Password</string>
+    <string name="inserisci_email">Inserisci la tua email</string>
+    <string name="invia">INVIA</string>
+
+    <!-- Live Feed -->
+    <string name="live_feed">Live Feed</string>
+    <string name="commenta">COMMENTA</string>
+    <string name="suggerisci">SUGGERISCI</string>
+    <string name="post_date" formatted="false">"%s alle %s"</string>
+    <string name="presso" formatted="false">"%s presso %s"</string>
+
+    <!-- Menu -->
+    <string name="ilmioprofilo">IL MIO PROFILO</string>
+    <string name="menu_modifica">Modifica profilo</string>
+    <string name="menu_quartieri">Quartieri che seguo</string>
+    <string name="menu_seguiti">Seguiti</string>
+    <string name="menu_eventi">Eventi</string>
+    <string name="menu_galleria">Galleria</string>
+    <string name="menu_pagine">Pagine</string>
+    <string name="menu_termini_condizioni">Termini e Condizioni</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="menu_segnala">Segnala un problema</string>
+    <string name="logout">Esci</string>
+
+    <!-- Quartieri che seguo -->
+    <string name="quartieri_che_seguo">Quartieri che seguo</string>
+    <string name="no_follow">NON SEGUIRE PIÙ</string>
+    <string name="follow">SEGUI</string>
+
+    <!-- Galleria -->
+    <string name="foto_taggato">FOTO IN CUI SONO TAGGATO</string>
+    <string name="foto_caricate">FOTO CARICATE DA ME</string>
+
+    <!-- Pagine -->
+    <string name="label_attivita">ATTIVITÀ</string>
+    <string name="label_punti_interesse">PUNTI D\'INTERESSE</string>
+    <string name="label_luoghi">LUOGHI</string>
+    <string name="menu_attivita">Attività</string>
+    <string name="menu_poi">Punto d\'interesse</string>
+    <string name="menu_luogo">Luogo</string>
+    <string name="crea_pagina">Crea pagina</string>
+    <string name="cancel">Annulla</string>
+
+    <!-- Crea pagina -->
+    <string name="crea_pagina_attivita">Crea Pagina Attività</string>
+    <string name="nome_pagina">Nome pagina</string>
+    <string name="quartiere">Quartiere</string>
+    <string name="indirizzo">Indirizzo</string>
+    <string name="telefono">Telefono</string>
+    <string name="orari">Orari</string>
+    <string name="descrizione">Descrizione</string>
+    <string name="aggiungi_foto">AGGIUNGI FOTO</string>
+    <string name="suggerisci_pagina">SUGGERISCI</string>
+    <string name="crea_pagina_button">CREA PAGINA</string>
+
+    <!-- MESSAGES -->
+    <string name="login_error_empty">Inserire email e password</string>
+    <string name="login_invalid_data">Dati non validi</string>
+    <string name="login_not_found">E-Mail o password non corretti</string>
+    <string name="login_success">Login effettuato correttamente</string>
+    <string name="all_fields_required">Tutti i campi sono obbligatori</string>
+    <string name="invalid_username">Username non valida</string>
+    <string name="invalid_password">Password non valida, devi inserire almeno 6 caratteri</string>
+    <string name="invalid_email">E-Mail non valida</string>
+    <string name="invalid_birth_date">Data di nascita non valida</string>
+    <string name="password_not_same">Password e Ripeti Password devono coincidere</string>
+    <string name="signup_success">Registrazione effettuata con successo</string>
+    <string name="signup_error">Username o Email già presente</string>
+    <string name="edit_profile_success">Profilo modificato con successo</string>
+    <string name="generic_error">Si è verificato un errore, riprovare!</string>
+    <string name="no_posts">Nessun post disponibile</string>
+    <string name="camera_error">Questo dispositivo non dispone di una camera</string>
+
+    <!-- EDIT PROFILE -->
+    <string name="edit_profile_facebook">Non puoi modificare il tuo profilo se sei autenticato con Facebook</string>
+    <string name="edit_profile">Modifica Profilo</string>
+    <string name="salva">SALVA</string>
+    <string name="profile_picture">Immagine del profilo</string>
+    <string name="profile_picture_shot">Scatta foto</string>
+    <string name="profile_picture_gallery">Galleria</string>
+
+    <!-- NEW POST -->
+    <string name="scrivi">Scrivi</string>
+    <string name="scrivi_qui">Scrivi qui...</string>
+    <string name="pubblica">Pubblica</string>
+    <string name="alert_message">Inserire il testo</string>
+    <string name="post_sent_successfully">Post inviato con successo</string>
+    <string name="alert_delete_photo_title">Rimuovi immagine</string>
+    <string name="alert_delete_photo_message">Sicuro di voler rimuovere la foto?</string>
+    <string name="select_location">Seleziona luogo</string>
+
+    <!-- USER PROFILE -->
+    <string name="following">FOLLOWING</string>
+    <string name="followers">FOLLOWERS</string>
+    <string name="profile_scrivi">SCRIVI</string>
+    <string name="profile_photo">FOTO</string>
+    <string name="no_followings">Non segui nessuno</string>
+    <string name="change_status">Stato</string>
+
+    <!-- COMMENTI -->
+    <string name="comments">Commenti</string>
+    <string name="write_comment">Commenta...</string>
+    <string name="inserisci_commento">Inserisci commento</string>
+
+
+
+    <!-- GEOTAG -->
+    <string name="aggiungi_posizione">Aggiungi Posizione</string>
+
+    <!-- MESSAGGI -->
+    <string name="conversation_last_date" formatted="false">%s alle ore %s</string>
+    <string name="inserisci_messaggio">Inserire il messaggio</string>
+    <string name="write_message">Scrivi messaggio...</string>
+    <string name="new_message">Nuovo messaggio</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_final">FinalActivity</string>
+
+</resources>
